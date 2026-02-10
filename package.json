@@ -1,8 +1,4 @@
-{
-  "name": "animeflix",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "mongoose": "^8.0.0"
-  }
+"scripts": {
+  "build": "vite build",
+  "vercel-build": "vite build"
 }
